@@ -1,7 +1,7 @@
 # 日常记录    
 ---
 ### 2019.02.23    
-1. dub
+- dub
 - cork  
 - pant
 - sprawl
@@ -26,7 +26,7 @@
 <br/>
       
 ### 2019.02.24
-1. pathos
+- pathos
 - inundate
 - go on about sth
 - consent
