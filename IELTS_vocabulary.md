@@ -45,7 +45,7 @@
 <br/>
 
 ### 2019.02.25
-1. painstaking
+- painstaking
 - mitigate
 - bitumen
 - cunning
@@ -102,7 +102,7 @@
 
 ---
 
-#Speaking中可以用到的：
+# Speaking中可以用到的：
 ---
 - **lucid-(adj)-[2019.02.23]**
 	- His explanation was lucid and to the point.
