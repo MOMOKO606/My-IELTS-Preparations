@@ -42,7 +42,7 @@
 - dispose
 - flask
 - strait
-<br/>
+<br/>  
 
 ### 2019.02.25
 - painstaking
@@ -64,11 +64,32 @@
 - horizon
 - metaphor
 - contend
+<br/>  
 
-
-
-
-
+### 2019.03.03
+- erratic
+- resort
+- delinquency
+- persecute
+- artery
+- flutter
+- hum
+- single out
+- raid
+- obstinate
+- quarry
+- coverage
+- conceive
+- grim
+- magnanimous
+- undue
+- mar
+- canvas
+- crooked
+- detest
+- bungalow
+- gesture
+- sacred
 ---
 # 近义词
 ---
@@ -99,6 +120,15 @@
 * 
 >contend  
 
+* 
+>quarry
+
+* 
+>conceive
+
+* 
+>overdue  
+>undue
 
 ---
 
@@ -135,3 +165,11 @@
 	- The celebration of the centenary will culminate with a dinner.
 - **<font color =red> metaphor-(n)-[2019.02.25]**
 	- 'This vale of tears' is a metaphor for the human condition. </font>
+- **single out-(v)-[2019.03.03]**
+	- We wanted to single out the main threat to civilisation.  	
+- **obstinate-(adj)-[2019.03.03]**
+	- He can be very obstinate when he wants to be!  
+- **grim-(adj)-[2019.03.03]**
+	- The report paints a grim picture of life there.  
+- **magnanimous-(adj)-[2019.03.03]**
+	- He is a magnanimous person.  
