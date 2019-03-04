@@ -113,14 +113,17 @@
 - expedient
 - norm
 <br/>
----
+<br/>  
+   
+
 # 近义词
 ---
 *   
-> climax  
-> culminate
+> climax     
+> culminate  
+<br/>    
+   
 
----
 
 # 形似词
 ---
@@ -175,8 +178,9 @@
 
 *   
 > indignant 
+<br/>    
+<br/>  
 
----
 
 # Speaking中可以用到的：
 ---
