@@ -89,10 +89,37 @@
 - detest
 - bungalow
 - gesture
-- sacred
+- sacred    
+<br/>     
+
+
+### 2019.03.04
+- molecule
+- climax
+- fellowship
+- hard and fast
+- versed
+- uncalled-for
+- orientate oneself
+- barometer
+- odor
+- abound
+- indignant
+- swarm
+- find fault with
+- fall back on
+- neutralize
+- conspicuous
+- expedient
+- norm
+<br/>
 ---
 # 近义词
 ---
+*   
+> climax  
+> culminate
+
 ---
 
 # 形似词
@@ -130,6 +157,25 @@
 >overdue  
 >undue
 
+* 
+>flask  
+>flake
+
+* 
+>tower
+>towel
+
+* 
+>prospectus   
+>prospect   
+
+*   
+> versed  
+> versus
+
+*   
+> indignant 
+
 ---
 
 # Speaking中可以用到的：
@@ -137,7 +183,8 @@
 - **lucid-(adj)-[2019.02.23]**
 	- His explanation was lucid and to the point.
 	- In a rare lucid moment, she looked at me and smiled.
-	- His prose is always lucid and compelling.       
+	- His 
+	- se is always lucid and compelling.       
 - **frugal-(adj)-[2019.02.23]**
 	- She lives a frugal life.
 - **cosmopolitan-(adj,n)-[2019.02.23]**
@@ -173,3 +220,15 @@
 	- The report paints a grim picture of life there.  
 - **magnanimous-(adj)-[2019.03.03]**
 	- He is a magnanimous person.  
+- **hard and fast-(adj)-[2019.03.04]**
+- **versed-(adj)-[2019.03.04]**
+	- He is well versed in the science of optics.
+- **uncalled-for-(adj)-[2019.03.04]**
+	- Facts proved that our worries were uncalled-for.
+- **orientate oneself-[2019.03.04]**
+- **conspicuous-(adj)-[2019.03.04]**
+	- Most people don't want to be too conspicuous.
+- **expedient-(adj)-[2019.03.04]**
+	- Einstein found it expedient to use in the creation of his theories.
+
+
