@@ -112,18 +112,51 @@
 - conspicuous
 - expedient
 - norm
-<br/>
 <br/>  
+<br/>
+
+### 2019.03.05
+- vain
+- cut across
+- impair
+- saturate
+- parliament
+- readily
+- indigenous
+- latent
+- phonetic
+- proceed
+- limp
+- petal
+- sanitary
+- tamper
+- swerve
+- convenience
+- discriminate
+- jagged
+- farewell
+- semblance
+- on no account
+<br/>  
+<br/>
+
+
    
 
 # 近义词
 ---
 *   
+> saturate     
+> abound   
+   
+*   
 > climax     
 > culminate  
-<br/>    
-   
 
+*   
+> sanitary     
+
+<br/>
 
 # 形似词
 ---
@@ -177,7 +210,16 @@
 > versus
 
 *   
+> vain 
+> vein
+
+*   
 > indignant 
+> indigenous
+
+*   
+> petal
+> paddle
 <br/>    
 <br/>  
 
@@ -234,5 +276,18 @@
 	- Most people don't want to be too conspicuous.
 - **expedient-(adj)-[2019.03.04]**
 	- Einstein found it expedient to use in the creation of his theories.
+- **cut across-[2019.03.05]**
+	- He cut across the fields so as not to be late.
+- **on no account-[2019.03.05]**
+	- On no account should you leave the door unlocked. 
+- **readily-(adj)-[2019.03.05]**
+	- The document is expressed in terms that are readily understood and agreed.
+- **latent-(adj)-[2019.03.05]**
+	- These children have a huge reserve of latent talent.
+- **<font color =red> convenience-(n)-[2019.03.05]**
+	- They may use a credit card for convenience.  </font>
+
+
+
 
 
