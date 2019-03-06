@@ -140,7 +140,33 @@
 <br/>  
 <br/>
 
+### 2019.03.06
+- magistrate
+- hatch
+- swamp
+- bribe
+- beverage
+- exasperate
+- wary
+- peculiar
+- denial
+- as for
+- rip
+- wretched
+- shanty
+- take stock of
+- elated
+- segregate
+- dingy
+- lax
+- haven
+- perspire
+- antagonism
+- rise to occasion
+- imminent
+- potent
 
+<br/>  
    
 
 # 近义词
@@ -155,6 +181,21 @@
 
 *   
 > sanitary     
+
+*   
+> wary     
+
+* 
+>indignant  
+>exasperate 
+
+
+*  
+>peculiar
+
+*  
+>shanty
+>
 
 <br/>
 
@@ -220,6 +261,26 @@
 *   
 > petal
 > paddle
+
+*   
+> magistrate 
+> majesty
+
+*   
+> bride 
+> bribe
+
+*   
+> potent
+> potential
+
+*   
+> haven
+> heaven
+
+*   
+> quaint
+> acquaint
 <br/>    
 <br/>  
 
@@ -278,15 +339,18 @@
 	- Einstein found it expedient to use in the creation of his theories.
 - **cut across-[2019.03.05]**
 	- He cut across the fields so as not to be late.
-- **on no account-[2019.03.05]**
-	- On no account should you leave the door unlocked. 
+- **latent-(adj)-[2019.03.05]**
+	- These children have a huge reserve of latent talent.
 - **readily-(adj)-[2019.03.05]**
 	- The document is expressed in terms that are readily understood and agreed.
 - **latent-(adj)-[2019.03.05]**
 	- These children have a huge reserve of latent talent.
 - **<font color =red> convenience-(n)-[2019.03.05]**
 	- They may use a credit card for convenience.  </font>
-
+- **As for-[2019.03.06]**
+	- As for his job — well, he was very mysterious about it.
+- **take stock of-[2019.03.06]**
+	- It was time to take stock of the situation.
 
 
 
