@@ -165,6 +165,24 @@
 - rise to occasion
 - imminent
 - potent
+<br/>
+<br/>  
+
+### 2019.03.08
+- spin（多义词）
+- puncture(注意发音)
+- peril
+- ponderous
+- conjunction
+- famine
+- tract
+- turmoil
+- degenerate
+- fling
+- tinge
+- zeal
+- corps(注意发音)
+
 
 <br/>  
    
@@ -281,6 +299,23 @@
 *   
 > quaint
 > acquaint
+
+*   
+> corps   
+> corpse 
+
+*   
+> peril   
+> petal 
+
+*   
+> puncture  
+> punctual 
+
+*   
+> contempt   
+> tempt
+
 <br/>    
 <br/>  
 
