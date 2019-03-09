@@ -168,30 +168,36 @@
 <br/>
 <br/>  
 
-### 2019.03.08
-- spin（多义词）
-- puncture(注意发音)
-- peril
-- ponderous
-- conjunction
-- famine
-- tract
-- turmoil
-- degenerate
-- fling
-- tinge
-- zeal
-- corps(注意发音)
-
+### 2019.03.09
+- brood
+- dreary
+- astronomy
+- synchronize
+- set on sb.
+- disdain
+- opaque
+- revive
+- discord
+- pervade
+- devour
+- complement
+- outright
+- substitute
+- bulk
+- bargain
+- bring about
+- aspire
+- be on good terms (with sb.)
+- denomination
 
 <br/>  
-   
 
-# 近义词
+# 意义上有关联的词
 ---
 *   
 > saturate     
 > abound   
+> pervade
    
 *   
 > climax     
@@ -213,7 +219,22 @@
 
 *  
 >shanty
->
+
+
+*   
+> dreary 
+
+*   
+> disdain
+> contempt 
+
+*   
+> lucid  
+> opaque  
+
+*       
+> herd  
+> brood
 
 <br/>
 
@@ -301,7 +322,8 @@
 > acquaint
 
 *   
-> corps   
+> corps  
+> crops   
 > corpse 
 
 *   
@@ -316,6 +338,9 @@
 > contempt   
 > tempt
 
+*   
+> inspire   
+> aspire
 <br/>    
 <br/>  
 
@@ -386,7 +411,15 @@
 	- As for his job — well, he was very mysterious about it.
 - **take stock of-[2019.03.06]**
 	- It was time to take stock of the situation.
-
-
-
+- **<font color =red> complement-(v,n)-[2019.03.09]**
+	- Nothing complements spaghetti like a glass of red wine!
+	- Rice makes an excellent complement to a curry dish.  </font>
+- **<font color =red> outright-(adj,adv)-[2019.03.09]**
+	- She rejected his proposal outright. </font>
+- **<font color =red> bargain-(v,n,adj)-[2019.03.09]**
+	- The old lady is trying to bargain with the peddler </font>
+- **<font color =red> bring about-[2019.03.09]**
+	- 说引起的时候bring太单薄的话，可以用bring about. </font>
+- **<font color =red> be on good terms (with sb.)-[2019.03.09]**
+	- The three ladied are on good terms with each other. </font>
 
