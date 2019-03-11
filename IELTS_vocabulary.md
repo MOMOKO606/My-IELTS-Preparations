@@ -189,9 +189,59 @@
 - aspire
 - be on good terms (with sb.)
 - denomination
-
+<br/>  
+<br/>  
+### 2019.03.10
+- audit
+- monetary
+- ransom
+- modest
+- glide
+- ravage
+- blot
+- cucumber
+- herb
+- articulate
+- tremble
+- concise
+- in sb.'s favour
+- natal
+- meddle
+- trickle
+<br/>  
 <br/>  
 
+### 2019.03.11
+- intelligible
+- lease
+- superintend
+- cognitive
+- pageant
+- shoal
+- meagre
+- marble
+- corporate
+- border on (upon)
+- muddle
+- patent
+- queer
+- upright
+- decree
+- impede
+- revolve
+- clan
+- affection
+- simulataneous
+- caustic
+- throbbing
+- contrive
+- beset
+- fuss
+- obsolete
+- ephemeral
+- frown
+
+<br/> 
 # 意义上有关联的词
 ---
 *   
@@ -230,11 +280,16 @@
 
 *   
 > lucid  
+> translucent  
 > opaque  
 
 *       
 > herd  
 > brood
+> shoal
+
+*
+> corporate
 
 <br/>
 
@@ -341,6 +396,18 @@
 *   
 > inspire   
 > aspire
+
+*
+> herb  
+> herd 
+
+*
+> muddle
+> meddle 
+
+*
+> upright
+> outright
 <br/>    
 <br/>  
 
@@ -422,4 +489,15 @@
 	- 说引起的时候bring太单薄的话，可以用bring about. </font>
 - **<font color =red> be on good terms (with sb.)-[2019.03.09]**
 	- The three ladied are on good terms with each other. </font>
+- **articulate-(v,adj)-[2019.03.10]**
+	- She is an articulate young woman.
+- **<font color =red> in sb.'s favour-[2019.03.10]**
+	- I hate you - you never decide in my favour! (我讨厌你——你从来不为我着想！) </font>
+- **<font color =red> border on (upon)-[2019.03.11]**
+	- The man was brodering on crying. </font>
+- **simulataneous-(adj)-[2019.03.11]**
+	- I can do simulataneous tasks, like brushing my teeth and exercising!
+- **throbbing-(v,adj)-[2019.03.10]**
+	- My heart is throbbing and I'm shaking.
+
 
