@@ -199,7 +199,9 @@
 - glide
 - ravage
 - blot
-- cucumber
+- 
+- 
+- ucumber
 - herb
 - articulate
 - tremble
@@ -242,6 +244,33 @@
 - frown
 
 <br/> 
+
+### 2019.03.12
+- hygiene
+- substantiate
+- brisk
+- rub
+- volatile
+- infirmary
+- cumbersome
+- be bent on 
+- unrest
+- sketch
+- wholesome
+- respiration
+- pass over
+- thrust
+- deft
+- lodging
+- concoct
+- slope
+- assimilate
+- prohibit
+- inhibit
+- monopoly
+
+
+<br/> 
 # 意义上有关联的词
 ---
 *   
@@ -254,21 +283,22 @@
 > culminate  
 
 *   
-> sanitary     
+> sanitary   
+> hygiene  
 
 *   
 > wary     
 
 * 
->indignant  
->exasperate 
+> indignant  
+> exasperate 
 
 
 *  
->peculiar
+> peculiar
 
 *  
->shanty
+> shanty
 
 
 *   
@@ -283,14 +313,32 @@
 > translucent  
 > opaque  
 
-*       
+*         
 > herd  
 > brood
 > shoal
 
-*
-> corporate
+*  
+> corporate  
 
+*     
+> brisk
+
+*         
+> volatile  
+> caustic
+
+*     
+> respiration  
+> perspire
+
+
+*  
+> slope
+
+*  
+> prohibit  
+> inhibit
 <br/>
 
 # 形似词
@@ -308,37 +356,37 @@
 > quote
 
 * 
->roam  
->roar
+> roam  
+> roar
 
 * 
->embark   
->bark
+> embark   
+> bark
 
 * 
->contend  
+> contend  
 
 * 
->quarry
+> quarry
 
 * 
->conceive
+> conceive
 
 * 
->overdue  
->undue
+> overdue  
+> undue
 
 * 
->flask  
->flake
+> flask  
+> flake
 
 * 
->tower
->towel
+> tower
+> towel
 
 * 
->prospectus   
->prospect   
+> prospectus   
+> prospect   
 
 *   
 > versed  
@@ -397,18 +445,31 @@
 > inspire   
 > aspire
 
-*
+*  
 > herb  
 > herd 
 
-*
+*  
 > muddle
 > meddle 
 
-*
+*  
 > upright
-> outright
-<br/>    
+> outright  
+
+*  
+> cucumber   
+> cumbersome   
+
+*            
+> sketch
+
+*            
+> assimilate
+
+*  
+> prohibit  
+> inhibit    
 <br/>  
 
 
@@ -497,7 +558,10 @@
 	- The man was brodering on crying. </font>
 - **simulataneous-(adj)-[2019.03.11]**
 	- I can do simulataneous tasks, like brushing my teeth and exercising!
-- **throbbing-(v,adj)-[2019.03.10]**
+- **throbbing-(v,adj)-[2019.03.11]**
 	- My heart is throbbing and I'm shaking.
+- **<font color =red> be bent on-[2019.03.12]**
+	- Nowadays, most people are bent on making as much money as they can.</font>
 
+ 
 
