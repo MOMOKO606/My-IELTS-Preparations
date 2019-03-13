@@ -269,8 +269,37 @@
 - inhibit
 - monopoly
 
+<br/>
 
-<br/> 
+### 2019.03.13
+- statute
+- notch
+- dwell
+- alleviate
+- carry out
+- bulge
+- telling
+- gush
+- spacious
+- accomplish
+- invoice
+- admission
+- spouse
+- badge
+- incline
+- limb
+- dividend
+- seclude
+- freight
+- establish
+- venerate
+- procure
+- loll
+- cylinder
+- offset
+- debris
+ 
+<br/>
 # 意义上有关联的词
 ---
 *   
@@ -334,15 +363,24 @@
 
 
 *  
-> slope
+> slope  
+> incline
 
 *  
 > prohibit  
 > inhibit
+
+*  
+> offset  
+> reset
 <br/>
 
 # 形似词
 ---
+*  
+> status
+> statute
+
 *   
 > pant  
 > pants
@@ -469,7 +507,11 @@
 
 *  
 > prohibit  
-> inhibit    
+> inhibit 
+
+*  
+> badge
+> bandage   
 <br/>  
 
 
@@ -562,6 +604,12 @@
 	- My heart is throbbing and I'm shaking.
 - **<font color =red> be bent on-[2019.03.12]**
 	- Nowadays, most people are bent on making as much money as they can.</font>
+- **<font color =red> accomplish-(v)-[2019.03.13]**
+	- I have accomplish my tasks on schedule.</font>
+- **carry out-[2019.03.13]**
+	- The Navy is to carry out an examination of the wreck tomorrow.
+- **spacious-(adj)-[2019.03.13]**
+	- The spacious living quarters were on the second floor.
 
- 
+- 
 
