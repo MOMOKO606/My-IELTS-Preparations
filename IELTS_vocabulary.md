@@ -199,8 +199,6 @@
 - glide
 - ravage
 - blot
-- 
-- 
 - ucumber
 - herb
 - articulate
@@ -300,8 +298,40 @@
 - debris
  
 <br/>
+
+### 2019.03.14
+- malignant
+- vomit
+- platitude
+- thorough
+- ascribe
+- anxiety
+- pinch
+- rot
+- conversely
+- righteous
+- laudable
+- secretion
+- dodge
+- petition
+- anecdote
+- expose
+- tonic
+- scum
+- rage
+- mercantile
+ 
+<br/>
 # 意义上有关联的词
 ---
+*  
+> attitude  
+> platitude  
+
+*    
+> ascribe  
+> describe  
+
 *   
 > saturate     
 > abound   
@@ -373,7 +403,9 @@
 *  
 > offset  
 > reset
-<br/>
+
+<br/>  
+
 
 # 形似词
 ---
@@ -435,31 +467,31 @@
 > vein
 
 *   
-> indignant 
+> indignant  
 > indigenous
 
 *   
-> petal
+> petal  
 > paddle
 
 *   
-> magistrate 
+> magistrate   
 > majesty
 
 *   
-> bride 
+> bride   
 > bribe
 
 *   
-> potent
+> potent  
 > potential
 
 *   
-> haven
+> haven  
 > heaven
 
 *   
-> quaint
+> quaint  
 > acquaint
 
 *   
@@ -488,11 +520,11 @@
 > herd 
 
 *  
-> muddle
+> muddle  
 > meddle 
 
 *  
-> upright
+> upright  
 > outright  
 
 *  
@@ -510,8 +542,9 @@
 > inhibit 
 
 *  
-> badge
-> bandage   
+> badge  
+> bandage 
+  
 <br/>  
 
 
@@ -519,9 +552,7 @@
 ---
 - **lucid-(adj)-[2019.02.23]**
 	- His explanation was lucid and to the point.
-	- In a rare lucid moment, she looked at me and smiled.
-	- His 
-	- se is always lucid and compelling.       
+	- In a rare lucid moment, she looked at me and smiled.       
 - **frugal-(adj)-[2019.02.23]**
 	- She lives a frugal life.
 - **cosmopolitan-(adj,n)-[2019.02.23]**
@@ -610,6 +641,8 @@
 	- The Navy is to carry out an examination of the wreck tomorrow.
 - **spacious-(adj)-[2019.03.13]**
 	- The spacious living quarters were on the second floor.
-
-- 
+- **ascribe-(adj)-[2019.03.14]**
+	- We can ascribe his illness to undue work.
+- **anxiety-(adj)-[2019.03.14]**
+	- She is in a state of anxiety as she lacks money for rising a baby.
 
