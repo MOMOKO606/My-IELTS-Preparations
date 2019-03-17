@@ -191,6 +191,7 @@
 - denomination
 <br/>  
 <br/>  
+
 ### 2019.03.10
 - audit
 - monetary
@@ -210,6 +211,7 @@
 - trickle
 <br/>  
 <br/>  
+
 
 ### 2019.03.11
 - intelligible
@@ -296,7 +298,6 @@
 - cylinder
 - offset
 - debris
- 
 <br/>
 
 ### 2019.03.14
@@ -320,8 +321,44 @@
 - scum
 - rage
 - mercantile
- 
 <br/>
+
+### 2019.03.16
+- bruise
+- assemble
+- convene
+- retort
+- haul
+- exert
+- yearn
+- scrupulous
+- acquaint
+- take sth. in 
+- fatuous
+- aboriginal
+- overhaul
+- militant
+- appraisal
+- uprising
+- wardrobe
+<br/>  
+
+### 2019.03.17
+- bear sth. in mind
+- regardless
+- come around
+- drudgery
+- stand out
+- stand off
+- barter
+- demolish 
+- diameter
+- poke
+- hubbub
+- consign
+- overrun
+<br/> 
+
 # 意义上有关联的词
 ---
 *  
@@ -359,7 +396,6 @@
 *  
 > shanty
 
-
 *   
 > dreary 
 
@@ -391,7 +427,6 @@
 > respiration  
 > perspire
 
-
 *  
 > slope  
 > incline
@@ -403,6 +438,10 @@
 *  
 > offset  
 > reset
+
+* 
+> assemble  
+> convene
 
 <br/>  
 
@@ -544,7 +583,14 @@
 *  
 > badge  
 > bandage 
-  
+
+* 
+> haul  
+> overhaul
+
+* 
+> stand out  
+> stand off 
 <br/>  
 
 
@@ -645,4 +691,7 @@
 	- We can ascribe his illness to undue work.
 - **anxiety-(adj)-[2019.03.14]**
 	- She is in a state of anxiety as she lacks money for rising a baby.
-
+- **bear sth. in mind-[2019.03.17]**
+	- Bear in mind to hang your clothing after you wash it.
+- **<font color =red> regardless-(adj)-[2019.03.17]**
+	- She goes for running regardless of cold weather.</font>
