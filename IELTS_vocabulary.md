@@ -359,6 +359,34 @@
 - overrun
 <br/> 
 
+
+### 2019.03.18
+- lament
+- courier
+- poise
+- solvent
+- stick sth. out
+- slander
+- revolt
+- bold
+- scrape
+- stick up
+- remnant
+- extravagant
+- sparse
+- distribute
+- plank
+- porch
+- bust
+- intrigue
+- reclaim
+- mold
+- vicinity
+- pragmatic
+- lethal
+- tackle
+<br/>
+
 # 意义上有关联的词
 ---
 *  
@@ -443,13 +471,17 @@
 > assemble  
 > convene
 
+* 
+> bruise  
+> scrape
+
 <br/>  
 
 
 # 形似词
 ---
 *  
-> status
+> status  
 > statute
 
 *   
@@ -591,6 +623,10 @@
 * 
 > stand out  
 > stand off 
+
+* 
+> stick sth. out  
+> stick up
 <br/>  
 
 
@@ -695,3 +731,24 @@
 	- Bear in mind to hang your clothing after you wash it.
 - **<font color =red> regardless-(adj)-[2019.03.17]**
 	- She goes for running regardless of cold weather.</font>
+- **lament-(v, n)-[2019.03.18]**
+	- The children lament the death of their mother.  
+- **poise-(v, n)-[2019.03.18]**  
+	- It took a moment for Mark to recover his poise.
+- **slander-(v, n)-[2019.03.18]**  
+	- The article is a slander on ordinary working people.
+- **intrigue-(v, n)-[2019.03.18]**  
+	- An evil intrigue suddenly comes to his mind.
+- **vicinity-(n)-[2019.03.18]**  
+	- Crowds gathered in the vicinity of Trafalgar Square..
+- **<font color =red> pragmatic-(adj, n)-[2019.03.18]**  
+	- They're pragmatic about the spending cuts.
+- **tackle-(v, n)-[2019.03.18]**  
+	- Ecological groups say that nothing is being done to tackle the problem.
+	- Time and again political parties have failed to tackle this issue.</font>
+
+
+
+
+
+- 
