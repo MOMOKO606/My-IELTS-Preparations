@@ -385,6 +385,34 @@
 - pragmatic
 - lethal
 - tackle
+<br/> 
+<br/>   
+ 
+### 2019.03.19(werid day)
+- compile
+- maiden
+- janitor
+- judicial
+- succumb
+- transgress
+- manual
+- gaunt
+- horticulture
+- mourn
+- in favour of
+- sterilize
+- ritual
+- vicious
+- epoch
+- tease
+- repent
+- on end
+- abridge
+- clip
+- nautical
+- reticent
+- flare
+
 <br/>
 
 # 意义上有关联的词
@@ -412,6 +440,7 @@
 
 *   
 > wary     
+> scrupulous
 
 * 
 > indignant  
@@ -747,8 +776,3 @@
 	- Ecological groups say that nothing is being done to tackle the problem.
 	- Time and again political parties have failed to tackle this issue.</font>
 
-
-
-
-
-- 
