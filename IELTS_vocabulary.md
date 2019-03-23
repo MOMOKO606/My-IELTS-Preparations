@@ -415,6 +415,31 @@
 
 <br/>
 
+### 2019.03.23(werid day)
+- deadlock
+- have(get) the upper hand
+- panorama
+- auction
+- inherit
+- equator
+- deficiency
+- gymnasium
+- garmet
+- eke
+- myriad
+- scout
+- gust
+- meadow
+- alloy
+- fatigue
+- poultry
+- fixture
+- blaze
+- headstrong
+- endurance
+
+<br/>
+
 # 意义上有关联的词
 ---
 *  
@@ -520,6 +545,7 @@
 *   
 > proficiency  
 > efficiency
+> deficiency
 
 *   
 > quota  
@@ -656,6 +682,13 @@
 * 
 > stick sth. out  
 > stick up
+
+* 
+> garment
+
+* 
+> poultry
+
 <br/>  
 
 
@@ -775,4 +808,5 @@
 - **tackle-(v, n)-[2019.03.18]**  
 	- Ecological groups say that nothing is being done to tackle the problem.
 	- Time and again political parties have failed to tackle this issue.</font>
-
+- **eke-(v)-[2019.03.23]**  
+	- The blind singer ekes out a living by singing in the street.
