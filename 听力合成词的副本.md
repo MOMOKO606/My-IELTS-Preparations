@@ -1,0 +1,114 @@
+#  听力合成词
+---
+##  链接符
+- full-time
+- part-time
+- long-term
+- mid-morning
+- mid-range
+- first-aid kit
+- hard-working
+- energy-saving
+- man-made
+- self-locking
+- self-centered
+- self-defense
+- self-access
+- door-to-door service
+- face-to-face interview
+- non-smoking
+- note-taking
+- brother-in-law
+<br/>  
+
+##  连在一起写的
+- takeaway
+- payphone
+- lookout point
+- layout
+- downhill
+- underground
+- feedback
+- postcard
+- hothouse
+- darkroom
+- wetsuit
+- playroom
+- bedroom
+- bathroom
+- storeroom
+- woodside
+- riverside
+- hillside
+- waterproof
+- soundproof
+- microchip
+- microfilm
+- microscope
+- microwave
+- lakeside
+- barcode
+- background
+- online
+- safeguard
+- waterfall
+- rainfall
+- sunshade
+- woodland
+- wheelchair
+- washbasin
+- wildlife
+- warehouse
+- storehouse
+- handbook
+- network
+- flashlight
+- footprint
+- headphone
+- earphone
+- eyesight
+- landmark
+- legroom
+- lifespan
+- textbook
+- workplace
+- workshop
+- worksheet
+- workbook
+- workforce
+- workload
+- waterskiing
+- windsurfing
+- booklet
+- leaflet
+- teamwork
+- dealline
+- lifestyle
+- rainforest
+- firewood
+- firework
+- videotape
+- dishwasher
+- keyboard
+- painkiller
+- checklist
+- outdoor
+- seafood
+- password
+- restroom
+- thunderstorm
+- sunset
+- outlet
+- raincoat
+- stopwatch
+- bookshelf
+- timetable
+- earthworm
+- daylight
+- overhead projector
+- bookkeeping
+<br/>  
+
+## 分开写的
+- living room
+- sitting room
