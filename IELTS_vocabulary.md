@@ -477,6 +477,7 @@
 
 *  
 > shanty
+> bungalow
 
 *   
 > dreary 
@@ -529,6 +530,22 @@
 > bruise  
 > scrape
 
+* 
+> detest  
+> indignant
+
+* 
+> crevice    
+> rip
+
+* 
+> flutter    
+> elated
+
+* 
+> imminent  
+> incipient  
+> expedient
 <br/>  
 
 
@@ -687,8 +704,20 @@
 > garment
 
 * 
-> poultry
+> poultry  
 
+*  
+> culminate   
+> accumulate 
+
+*    
+> raid   
+> rapid 
+
+*    
+> swarm   
+> swerve
+> swamp 
 <br/>  
 
 

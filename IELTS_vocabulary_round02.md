@@ -1,0 +1,61 @@
+# Round2: 2019.02.25-2019.03.06
+
+- inert
+- stoop
+- crevice
+- throng
+- incipient
+- monarchy
+- grease
+- inundate
+- preach
+- goad
+- substantiate
+- dispose
+- strait
+- upbringing
+- contend
+- consent
+- confine 
+- persecute
+- artery
+- raid
+- grim
+- mar
+- canvas
+- crooked
+- detest
+- indignant
+- gesture
+- versed
+- barometer
+- swarm
+- vain
+- saturate
+- parliament
+- phonetic
+- swerve
+- sembalance
+- hatch
+- bribe
+- beverage
+- exasperate
+- rip
+- wretched
+- elated
+- dingy
+- imminent
+- potent
+- **contemplate**
+- **flutter**
+- **expedient**
+- **tamper**
+- **jagged**
+- **swamp**
+- **quaint**
+- **haven**
+- find fault with
+- fall back on
+- take stock of
+
+
