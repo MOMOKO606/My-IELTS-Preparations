@@ -59,3 +59,30 @@
 - take stock of
 
 
+# Round2: 2019.03.08-2019.03.11
+
+- spin
+- puncture
+- famine
+- fling
+- tinge
+- corps
+- denomination
+- audit
+- ransom
+- monetary
+- ravage
+- blot
+- herb
+- natal
+- trickle
+- pageant
+- marble
+- corporate
+- impede
+- affection
+- simultaneous
+- border on
+- throbbing
+- beset
+- obsolete

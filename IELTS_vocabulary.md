@@ -546,7 +546,14 @@
 > imminent  
 > incipient  
 > expedient
+
+* 
+> tract  
+> artry 
 <br/>  
+
+*  
+> ravage
 
 
 # 形似词
@@ -718,6 +725,10 @@
 > swarm   
 > swerve
 > swamp 
+  
+*  
+>  substantiate  
+>  substitue
 <br/>  
 
 
