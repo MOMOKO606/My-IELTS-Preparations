@@ -86,3 +86,39 @@
 - throbbing
 - beset
 - obsolete
+
+# Round2: 2019.03.12-2019.03.16
+
+- rub
+- infirmary
+- deft
+- brisk
+- lodging
+- monopoly
+- spouse
+- statute
+- bulge
+- telling
+- gush
+- spacious
+- invoice
+- admission
+- badge
+- limp
+- limb
+- freight
+- venerate
+- procure
+- scum
+- loll
+- cylinder
+- debris
+- platitude
+- ascribe
+- pinch
+- rot
+- exert
+- scrupulous
+- aboriginal
+- wardrobe
+- take in 

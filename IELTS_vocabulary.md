@@ -500,7 +500,8 @@
 > corporate  
 
 *     
-> brisk
+> brisk  
+> deft
 
 *         
 > volatile  
@@ -553,8 +554,11 @@
 <br/>  
 
 *  
-> ravage
+> ravage  
+> debris
 
+*  
+> rot
 
 # 形似词
 ---
@@ -727,8 +731,25 @@
 > swamp 
   
 *  
->  substantiate  
->  substitue
+> substantiate  
+> substitue
+
+*  
+> rub  
+> rubber  
+> rob
+
+*  
+> status  
+> statute
+
+*  
+> badge  
+> bandage
+
+*  
+> limb  
+> limp
 <br/>  
 
 
