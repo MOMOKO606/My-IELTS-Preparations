@@ -122,3 +122,56 @@
 - aboriginal
 - wardrobe
 - take in 
+
+
+# Round2: 2019.03.17-2019.03.22
+
+- barter
+- bargain
+- demolish
+- diameter
+- barometer
+- scrape
+- overrun
+- solvent
+- extarvagent
+- exasperate
+- exaggerate
+- sparse
+- porch
+- bust
+- intrigue
+- mold
+- tackle
+- vicinity
+- compile
+- janitor
+- judicial
+- succumb
+- transgress
+- gaunt
+- horticulture
+- abridge
+- flare
+- ritual
+- epoch
+- deadlock
+- fatigue
+- auction
+- audit
+- flare
+- blaze
+- poultry
+- **plank**
+- **revolt**
+- **remnant**
+- **consign**
+- **pragmatic**
+- **reticent**
+- **sterilize**
+- **vicious**
+- **tease**
+- **repent**
+- **panorama**
+- in favour of
+- on end 

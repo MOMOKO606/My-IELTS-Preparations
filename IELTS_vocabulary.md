@@ -415,7 +415,7 @@
 
 <br/>
 
-### 2019.03.23(werid day)
+### 2019.03.22(werid day)
 - deadlock
 - have(get) the upper hand
 - panorama
@@ -462,6 +462,7 @@
 *   
 > sanitary   
 > hygiene  
+> sterilize
 
 *   
 > wary     
@@ -555,10 +556,23 @@
 
 *  
 > ravage  
-> debris
+> debris  
+> demolish
 
 *  
 > rot
+
+*  
+> barometer  
+> diameter  
+
+*      
+> barter   
+> bargain
+
+*      
+> flare
+> blaze
 
 # 形似词
 ---
@@ -750,6 +764,19 @@
 *  
 > limb  
 > limp
+
+*  
+> extarvagent  
+> exasperate  
+> exaggerate  
+
+*  
+> bust
+> breast
+
+*  
+> auction
+> audit
 <br/>  
 
 
@@ -869,5 +896,7 @@
 - **tackle-(v, n)-[2019.03.18]**  
 	- Ecological groups say that nothing is being done to tackle the problem.
 	- Time and again political parties have failed to tackle this issue.</font>
-- **eke-(v)-[2019.03.23]**  
+- **eke-(v)-[2019.03.22]**  
 	- The blind singer ekes out a living by singing in the street.
+- **panorama-(n)-[2019.03.22]**  
+	- This panorama shows the entire downtown New York skyline.
