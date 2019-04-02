@@ -574,6 +574,10 @@
 > flare
 > blaze
 
+*      
+> tinge  
+> blot
+
 # 形似词
 ---
 *  
@@ -900,3 +904,7 @@
 	- The blind singer ekes out a living by singing in the street.
 - **panorama-(n)-[2019.03.22]**  
 	- This panorama shows the entire downtown New York skyline.
+- **reticent-(adj)-[2019.03.22]**  
+	- She is so reticent about her achievements.
+
+
