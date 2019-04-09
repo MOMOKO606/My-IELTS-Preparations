@@ -412,10 +412,9 @@
 - nautical
 - reticent
 - flare
-
 <br/>
 
-### 2019.03.22(werid day)
+### 2019.03.22
 - deadlock
 - have(get) the upper hand
 - panorama
@@ -437,8 +436,61 @@
 - blaze
 - headstrong
 - endurance
-
 <br/>
+
+### 2019.04.08
+- susceptible
+- tangle
+- curb
+- howl
+- fomulate
+- levy
+- pole
+- despatch
+- literacy
+- take after sb.
+- pull through
+- verge
+- mentality
+- falter
+- cast
+<br/>
+
+### 2019.04.09
+- juvenile
+- bunk
+- masculine
+- bend
+- trifle
+- propagate
+- funnel
+- mustache
+- irritate
+- viable
+- facilitate
+- yawn
+- couch
+- heir
+- plunder
+- commend
+- merit
+- radical
+- make sb. up
+- fleeting
+- diligent
+- give sth. up
+- at a loose end
+- pracitioner
+- vacation
+- hinge
+- ultimatum
+- delicate
+- pretentious
+- marvelous
+- yoke
+- fundamental
+<br/>
+
 
 # 意义上有关联的词
 ---
@@ -534,6 +586,7 @@
 
 * 
 > detest  
+> irritate  
 > indignant
 
 * 
@@ -575,8 +628,16 @@
 > blaze
 
 *      
+> fling 
+> cast
+
+*      
 > tinge  
 > blot
+
+* 
+> yawn  
+> gape  
 
 # 形似词
 ---
@@ -775,12 +836,69 @@
 > exaggerate  
 
 *  
-> bust
+> bust  
 > breast
 
 *  
-> auction
+> auction  
 > audit
+
+* 
+> quarry  
+> quarrel
+
+* 
+> susceptible  
+> suspect
+
+* 
+> soar  
+> roar
+
+* 
+> numerate  
+> numerical
+
+* 
+> vanquish  
+> vanish
+
+* 
+> levy   
+> envy
+
+* 
+> funeral  
+> funnel
+
+* 
+> flutter  
+> flater
+
+* 
+> bend  
+> blend
+
+
+* 
+> trivial  
+> trifle 
+
+* 
+> couch  
+> coach
+
+* 
+> heir  
+> hair
+ 
+* 
+> plunder  
+> blunder
+
+* 
+> commend  
+> command
 <br/>  
 
 
@@ -906,5 +1024,27 @@
 	- This panorama shows the entire downtown New York skyline.
 - **reticent-(adj)-[2019.03.22]**  
 	- She is so reticent about her achievements.
+- **mentality-(n)-[2019.04.08]**  
+	- To win the race, it certainly helps to have a competitive mentality.
+- **take after sb.-[2019.04.08]**  
+	- The daughter really takes after her mother, they look exactly alike.
+- **pull through-[2019.04.08]**  
+	- We believe that optimistic woman will pull through.
+- **juvenile-(n,adj)-[2019.04.09]**  
+	- The juveniles play together on the beach.
+- **masculine-(adj)-[2019.04.09]**  
+	- Masculine looks often attract females.
+- **<font color =red> fundamental-(adj)-[2019.04.09]**
+	- In modern society, WIFI is the most fundamental need.</font>
+- **make sb. up-[2019.04.09]**  
+	- The woman makes herself up before going out on a date.
+- **give sth. up-[2019.04.09]**  
+	- This year, I'm going to give smoking up for good.
+- **at a loose end-[2019.04.09]**  
+	- He is at a loose end;he doesn't know which way to go.
+
+ 
+
+
 
 
