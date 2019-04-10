@@ -491,7 +491,28 @@
 - fundamental
 <br/>
 
-
+### 2019.04.10
+- choir
+- postmortem
+- set about sth.
+- commotion
+- aggregate
+- inquire
+- gauge
+- innocent 
+- raw
+- swirl
+- agitation
+- oust
+- comment
+- haphazard
+- assassination
+- brittle
+- grope
+- welfare
+- inept
+- dilute
+<br/>
 # 意义上有关联的词
 ---
 *  
@@ -638,6 +659,18 @@
 * 
 > yawn  
 > gape  
+ 
+* 
+> swirl  
+> eddy
+
+* 
+> delicate  
+> diligent
+
+* 
+> lawn   
+> dawn
 
 # 形似词
 ---
@@ -898,7 +931,16 @@
 
 * 
 > commend  
-> command
+> command  
+> comment
+
+* 
+> haphazard  
+> hazard
+
+* 
+> raw  
+> row
 <br/>  
 
 
@@ -1042,8 +1084,17 @@
 	- This year, I'm going to give smoking up for good.
 - **at a loose end-[2019.04.09]**  
 	- He is at a loose end;he doesn't know which way to go.
-
+- **innocent-(adj)-[2019.04.10]**  
+	- The baby is still innocent — he knows nothing of the evils of the world.
+- **inept-(adj)-[2019.04.10]**  
+	- The inept husband made a hole on the T-shirt with the iron.
+- **set about sth.-[2019.04.10]**  
+	- Before you set about fixing a car, make sure you know what you are doing.
  
+
+
+
+
 
 
 
