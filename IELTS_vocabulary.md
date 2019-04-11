@@ -513,6 +513,33 @@
 - inept
 - dilute
 <br/>
+
+### 2019.04.11
+- propaganda  
+- knit
+- call it a day  
+- mildew  
+- reckon on
+- maternal
+- vocational
+- sustain
+- postpone
+- baggage
+- ore
+- prodigious
+- have the making of
+- chapel
+- conspiracy
+- drain
+- obnoxious
+- chord
+- superfluous
+- diffuse
+- decent
+- discreet
+- abrupt
+
+<br/>  
 # 意义上有关联的词
 ---
 *  
@@ -550,14 +577,17 @@
 > peculiar
 
 *  
-> shanty
+> shanty  
 > bungalow
 
 *   
-> dreary 
+> dreary
+ 
+*   
+> discreet
 
 *   
-> disdain
+> disdain  
 > contempt 
 
 *   
@@ -671,6 +701,21 @@
 * 
 > lawn   
 > dawn
+
+* 
+> knit   
+> pin
+
+* 
+> mildew   
+> rot
+
+* 
+> luggage  
+> baggage
+
+*   
+> superfluous
 
 # 形似词
 ---
@@ -941,6 +986,19 @@
 * 
 > raw  
 > row
+
+* 
+> obnoxious  
+> noxious
+
+* 
+> chord  
+> choir
+
+* 
+> decent   
+> diligent  
+> delicate  
 <br/>  
 
 
@@ -1090,7 +1148,8 @@
 	- The inept husband made a hole on the T-shirt with the iron.
 - **set about sth.-[2019.04.10]**  
 	- Before you set about fixing a car, make sure you know what you are doing.
- 
+- **abrupt-(adj)-[2019.04.11]**  
+	- An abrupt gust of wind suddenly turned his umbrella inside out. 
 
 
 
