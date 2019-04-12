@@ -540,6 +540,33 @@
 - abrupt
 
 <br/>  
+
+
+### 2019.04.12
+- inflict
+- ardent
+- exacerbate
+- comprise
+- clumsy
+- steadfast
+- solidarity
+- gaudy
+- dairy
+- glitter
+- artillery
+- pointed
+- booth
+- pertinent
+- decrepit
+- veto
+- allege
+- remedy
+- incorporate
+- pull oneself together
+- cradle
+- reciprocal  
+<br/>
+
 # 意义上有关联的词
 ---
 *  
@@ -571,6 +598,7 @@
 * 
 > indignant  
 > exasperate 
+> exacerbate
 
 
 *  
@@ -578,7 +606,8 @@
 
 *  
 > shanty  
-> bungalow
+> bungalow  
+> booth
 
 *   
 > dreary
@@ -675,11 +704,12 @@
 > bargain
 
 *      
-> flare
-> blaze
+> flare  
+> blaze  
+> glitter
 
 *      
-> fling 
+> fling   
 > cast
 
 *      
@@ -912,6 +942,7 @@
 > extarvagent  
 > exasperate  
 > exaggerate  
+> exacerbate
 
 *  
 > bust  
@@ -998,7 +1029,23 @@
 * 
 > decent   
 > diligent  
-> delicate  
+> delicate 
+
+* 
+> inflict 
+
+* 
+> dairy  
+> diary
+
+* 
+> remedy  
+> comedy
+
+* 
+> incorporate  
+> corporate  
+> corporation
 <br/>  
 
 
@@ -1150,11 +1197,24 @@
 	- Before you set about fixing a car, make sure you know what you are doing.
 - **abrupt-(adj)-[2019.04.11]**  
 	- An abrupt gust of wind suddenly turned his umbrella inside out. 
+- **ardent-(adj)-[2019.04.12]**  
+	- He's been one of the most ardent supporters of the administration's policy.
+- **pointed-(adj)-[2019.04.12]**  
+	- I couldn't help but notice the pointed remarks.
+- **pertinent-(adj)-[2019.04.12]**  
+	- The expert made some pertinent comments on the scheme.
+- **reciprocal -(adj)-[2019.04.12]**  
+	- Our relationship is based on reciprocal respect.
+- **pull oneself together-[2019.04.12]**  
+	- She pull herself together before the big game by saying a prayer and concentrating.
+
+
+
+ 
 
 
 
 
 
-
-
+- 
 
