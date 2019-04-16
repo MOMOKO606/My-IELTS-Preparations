@@ -567,11 +567,68 @@
 - reciprocal  
 <br/>
 
+
+### 2019.04.13
+- deflect
+- hasty
+- memento
+- cluster
+- get round sth.
+- fickle
+- courtesy
+- likewise
+- authentic
+- lucrative
+- irony
+- sore
+- endorse
+- berth
+- cushion
+- precarious
+- pompous
+- peel
+- all out
+- unanimous
+- chamber
+- inferior
+- frail
+- errand 
+<br/>
+
+### 2019.04.14
+- savage
+- decompose
+- deceive
+- invaluable
+- dignity
+- cliche
+- exhort
+- ovation
+- enforce
+- ghastly
+- consecutive
+- exterminate
+- muster
+- grind
+- tuition
+- shrewd
+- hoist
+- on and off
+- foil
+- snap at sb.
+- tertiary
+- settle down
+- strenuous
+- tilt
+- fervent
+<br/>
+
 # 意义上有关联的词
 ---
 *  
 > attitude  
 > platitude  
+> cliche
 
 *    
 > ascribe  
@@ -646,7 +703,9 @@
 
 *  
 > slope  
-> incline
+> incline  
+> deflect  
+> titlt
 
 *  
 > prohibit  
@@ -658,7 +717,8 @@
 
 * 
 > assemble  
-> convene
+> convene  
+> muster
 
 * 
 > bruise  
@@ -693,7 +753,8 @@
 > demolish
 
 *  
-> rot
+> rot  
+> decompose
 
 *  
 > barometer  
@@ -746,6 +807,10 @@
 
 *   
 > superfluous
+
+* 
+> tuition  
+> pension
 
 # 形似词
 ---
@@ -943,6 +1008,7 @@
 > exasperate  
 > exaggerate  
 > exacerbate
+> exterminate
 
 *  
 > bust  
@@ -1046,6 +1112,14 @@
 > incorporate  
 > corporate  
 > corporation
+
+* 
+> fickle    
+> trickle
+
+* 
+> dignity  
+> diligent
 <br/>  
 
 
@@ -1207,14 +1281,24 @@
 	- Our relationship is based on reciprocal respect.
 - **pull oneself together-[2019.04.12]**  
 	- She pull herself together before the big game by saying a prayer and concentrating.
-
-
-
- 
-
-
-
-
+- **likewise-(adv)-[2019.04.13]**  
+	- The big man hates the small man;likewise, the small man hates the big man.
+- **authentic-(adj)-[2019.04.13]**  
+	- This diamond isn't fake, I'm sure it's authentic.
+- **lucrative-(adj)-[2019.04.13]**  
+	- E-business is a lucrative industry which brings up many billionaires.	
+- **get round sth.-[2019.04.13]**  
+	- You can only get round the obstacle by going off the road.
+- **<font color =red> all out-[2019.04.13]**  
+	- He goes all out to push the boulder up the hill. </font>
+- **exhort-(vi,vt)-[2019.04.14]**  
+	- The monk always exhorts the monkey to be considerate.
+- **tertiary-(adj,n)-[2019.04.14]**  
+	- Love and belonging are the tertiary needs.
+- **strenuous-(adj)-[2019.04.14]**  
+	- It's a strenuous thing for him to raise the weights.
+- **settle down-[2019.04.14]**  
+	- The couple decided to settle down and buy a house together.
 
 - 
 
