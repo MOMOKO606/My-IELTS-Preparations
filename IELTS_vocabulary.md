@@ -623,6 +623,30 @@
 - fervent
 <br/>
 
+### 2019.04.16
+- contaminate  
+- fetch  
+- campaign
+- humidity
+- dam
+- palatable
+- dictate
+- bid
+- lofty
+- sprint
+- hectic
+- solemn
+- bleach
+- steer
+- ragged
+- chic
+- spectacular
+- humdrum
+- disclose
+- postage
+- bulletin
+- lapse
+
 # 意义上有关联的词
 ---
 *  
@@ -811,6 +835,10 @@
 * 
 > tuition  
 > pension
+
+* 
+> lapse    
+> turnover
 
 # 形似词
 ---
@@ -1299,6 +1327,8 @@
 	- It's a strenuous thing for him to raise the weights.
 - **settle down-[2019.04.14]**  
 	- The couple decided to settle down and buy a house together.
-
-- 
+- **hectic-(adj)-[2019.04.16]**
+	- She hopes to have more hands to end this hectic day!
+- **humdrum-(adj, n, v)-[2019.04.16]**
+	- Memorizing English words in a vocabulary book can be very humdrum.   
 
