@@ -308,7 +308,6 @@
 - ascribe
 - anxiety
 - pinch
-- rot
 - conversely
 - righteous
 - laudable
@@ -778,7 +777,8 @@
 
 *  
 > rot  
-> decompose
+> decompose  
+> mildew
 
 *  
 > barometer  
@@ -1148,7 +1148,28 @@
 * 
 > dignity  
 > diligent
-<br/>  
+
+* 
+> mentality    
+> maternal
+> 
+
+* 
+> yawn  
+> lawn
+
+* 
+> choir  
+> chord  
+
+* 
+> propagate    
+> propaganda  
+
+* 
+> chamber      
+> chapel   
+ 
 
 
 # Speaking中可以用到的：
@@ -1167,7 +1188,8 @@
 - **substantiate-(vt)-[2019.02.24]**
 	- There is little scientific evidence to substantiate the claims.
 - **itinerary-(n)-[2019.02.24]**
-	- A visit to Rome must be included in the itinerary.
+	- A visit to Rome 
+	- must be included in the itinerary.
 	- His itinerary is still unclear. 
 - **painstaking-(n)-[2019.02.25]**
 	- She is not very clever but she is painstaking.

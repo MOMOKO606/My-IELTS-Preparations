@@ -175,3 +175,50 @@
 - **panorama**
 - in favour of
 - on end 
+
+
+# Round2: 2019.03.08-2019.04.16
+- susceptible
+- formulate
+- mentality
+- triffle
+- funnel
+- viable
+- yawn
+- commend
+- plunder
+- choir
+- paramount
+- lawn
+- oust
+- haphazard
+- hazard
+- dilute
+- propagate
+- propaganda
+- reckon on 
+- maternal
+- postpone
+- ore
+- prodigious
+- conspiracy
+- chord
+- exacerbate
+- clumsy
+- solidarity
+- dairy
+- diary
+- booth
+- remedy
+- cradle
+- endorse
+- precarious
+- chamber
+- chapel
+- frail
+- lapse
+- deceive
+- have the making of
+- get around sth
+- yes and no
+- on and off
