@@ -646,6 +646,58 @@
 - bulletin
 - lapse
 
+### 2019.04.22
+- detach
+- bond
+- trek
+- resonant
+- precipitate
+- spiral
+- deliberate
+- revenue
+- intermediate
+- cast off
+- custom
+- digest
+- profuse
+- stall
+- adverse
+- afflict
+- terse
+- dip
+- hit it off 
+- clean the air
+- boil down to
+- set in  
+
+### 2019.04.23
+- gratitude
+- resilience
+- apprehension
+- content
+- trumpt
+- invigilate
+- partial
+- convince
+- skim
+- not to say
+- bleak
+- considerable
+- optimism
+- intricate
+- havoc
+- baffle
+- resign
+- mercanary
+- be obsessed with
+- laden
+- perceive
+- spontaneous
+- nuisance
+- malnutrition
+- nausea
+- divine
+- monsoon  
 # 意义上有关联的词
 ---
 *  
@@ -687,7 +739,8 @@
 *  
 > shanty  
 > bungalow  
-> booth
+> booth  
+> stall
 
 *   
 > dreary
@@ -840,6 +893,14 @@
 > lapse    
 > turnover
 
+* 
+> trail    
+> trek
+
+* 
+> skim    
+> fleeting
+
 # 形似词
 ---
 *  
@@ -869,6 +930,10 @@
 
 * 
 > contend  
+> contest
+> content
+> context
+
 
 * 
 > quarry
@@ -909,7 +974,8 @@
 > paddle
 
 *   
-> magistrate   
+> magis
+> ate   
 > majesty
 
 *   
@@ -1169,8 +1235,51 @@
 * 
 > chamber      
 > chapel   
- 
 
+* 
+> bond  
+> bone  
+
+* 
+> trail  
+> trial
+ 
+* 
+> custom  
+> customer  
+> consumer
+
+* 
+> inflict  
+> afflict
+
+* 
+> avenue   
+> revenue
+
+* 
+> attitude  
+> platitude   
+> gratitude
+
+* 
+> trumpt  
+> trifles  
+
+* 
+> bleak    
+> bleach   
+
+* 
+> optimism    
+> optimize   
+
+* 
+> instantaneous  
+> spontaneous
+
+* 
+> nuisance  
 
 # Speaking中可以用到的：
 ---
@@ -1353,4 +1462,26 @@
 	- She hopes to have more hands to end this hectic day!
 - **humdrum-(adj, n, v)-[2019.04.16]**
 	- Memorizing English words in a vocabulary book can be very humdrum.   
-
+- **deliberate-(adj, v)-[2019.04.22]**
+	- Your making me fall wasn't an accident-it was deliberate!   
+- **set in -[2019.04.22]**
+	- We'll have to wait until the drugs set in and she falls asleep. 
+- **hit it off -[2019.04.22]**
+	- They hit it off straight away, Daddy and Walter. 
+- **boil down to -[2019.04.22]**
+	- What they want boils down to just one thing. It is land. 
+	- Most of my problems boil down to not having enough money.
+- **resilience-(n)-[2019.04.23]**
+	- She has shown great resilience to stress. 
+- **apprehension-(n)-[2019.04.23]**
+	- I have some apprehensions about this business deal. 
+- **partial-(adj)-[2019.04.23]**
+	- She is partial to her younger son and gives him more ice-cream. 
+- **considerable-(adj)-[2019.04.23]**
+	- His strength is considerable, because he exercises every day. 
+- **intricate-(adj)-[2019.04.23]**
+	- The plot of the novel is intricate and fascinating. 
+- **not to say -[2019.04.23]**
+	- The boy found the math book so difficult to comprehend, not to say dull. 
+- **be obsessed with -[2019.04.23]**
+	- Modern folks are totally obsessed with their phones. 
