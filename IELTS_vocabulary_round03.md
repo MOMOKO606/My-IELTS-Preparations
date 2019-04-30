@@ -1,0 +1,49 @@
+# Round2: 2019.02.25-2019.04.16
+
+- throne
+- throng
+- incipient
+- monarchy
+- preach
+- famine
+- artery
+- raid
+- grim
+- detest
+- rip
+- flutter
+- quaint
+- trickle
+- impede
+- infirmary
+- gush
+- badge
+- freight
+- debris
+- take in
+- sparse
+- judicial
+- transgress
+- gaunt
+- frail
+- abridge
+- flare
+- ritual
+- deadlock
+- plank
+- revolt
+- remnant
+- pragmatic
+- reticent
+- sterilize
+- tease
+- repent
+- panorama
+- triffle
+- commend
+- endorse
+- choir
+- oust
+- prodigious
+- lapse
+- on and off
