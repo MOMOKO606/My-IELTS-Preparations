@@ -20,7 +20,6 @@
 - badge
 - freight
 - debris
-- take in
 - sparse
 - judicial
 - transgress
@@ -47,3 +46,4 @@
 - prodigious
 - lapse
 - on and off
+- take in
