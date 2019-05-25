@@ -903,6 +903,75 @@
 - instantaneous
 - slum
 
+### 2019.05.19
+- make light of
+- tick
+- dormant
+- collaboration
+- scrap
+- plead guilty
+- pendulum
+- shaft
+- lump
+- blunder
+- maize
+- enrolment
+- bypass
+- amid
+- span
+- criterion
+- nibble
+- lateral
+- perish
+- metabolism
+- notary
+- pester
+- ensue
+
+### 2019.05.21
+- mandatory
+- breach
+- locomotive
+- pinnacle
+- monotonous
+- prone
+- thesaurus
+- flour
+- embargo
+- give way 
+- reimburse
+- impetus
+
+### 2019.05.25
+- appliance
+- molest
+- nobility
+- protrude
+- underneath
+- periscope
+- outset
+- above reproach
+- saline
+- at full tilt
+- glow
+- rampant
+- snap at sth.
+- make sth. up
+- provision
+- impart
+- improvise
+- relinquish
+- reconcile
+- jolt
+- calcium
+- petroleum
+- meteoric
+- reproach
+- meek
+- commence
+- irrespective
+- live up to
+
 # 意义上有关联的词
 ---
 *  
@@ -1117,7 +1186,8 @@
 
 *   
 > dreary  
-> tedious
+> tedious    
+> monotonous
 
 # 形似词
 ---
@@ -1131,7 +1201,7 @@
 
 *   
 > proficiency  
-> efficiency
+> efficiency  
 > deficiency
 
 *   
@@ -1387,6 +1457,7 @@
 > commend  
 > command  
 > comment
+> commence  
 
 * 
 > haphazard  
@@ -1484,7 +1555,8 @@
 > trifles  
 
 * 
-> bleak    
+> bleak  
+> breach    
 > bleach   
 
 * 
@@ -1516,8 +1588,15 @@
 
 *   
 > shadow  
-> shalow  
- 
+> shalow
+     
+*      
+> latest 
+> lateral  
+
+*      
+> flower 
+> flour 
 
 # Speaking中可以用到的：
 ---
@@ -1594,7 +1673,7 @@
 - **<font color =red> bring about-[2019.03.09]**
 	- 说引起的时候bring太单薄的话，可以用bring about. </font>
 - **<font color =red> be on good terms (with sb.)-[2019.03.09]**
-	- The three ladied are on good terms with each other. </font>
+	- The three ladies are on good terms with each other. </font>
 - **articulate-(v,adj)-[2019.03.10]**
 	- She is an articulate young woman.
 - **<font color =red> in sb.'s favour-[2019.03.10]**
@@ -1833,3 +1912,29 @@
 	- It is imperative to call 911 if your house is on fire. # 如果你家里着火了你必须打119。
 - **keep to the beaten track-[2019.05.18]**	
 	- He kept to the beaten track and works in an office. # 他循规蹈矩地在办公室工作。
+- **blunder-(v,n)-[2019.05.19], 替换mistake.**	
+	- He forgot to bring his parachute! What a terrible blunder that is! # 他居然忘了背降落伞，真是犯了愚蠢的错误！
+- **span-(v,n)-[2019.05.19]**	
+	- The bridge's span is about half a kilometer. # 这座桥的跨距大约是500米。
+- **ensue-(v)-[2019.05.19]**	
+	- Landslide ensued after the storm. # 风暴过后，接踵而来的是泥石流。
+- **lateral-(adj, n)-[2019.05.19]**	
+	- I want a picture with a lateral view of you. # 我想要一张你侧面的照片。
+- **prone-(adj)-[2019.05.21]**	
+	- Dogs are prone to pee indoors. # 狗子容易在室内尿尿。
+- **impetus-(n)-[2019.05.21], 替换power.**	
+	- This successful businessman's story gives me the impetus to work harder. # 这位成功商人的故事赐予我更加努力工作的动力。
+- **underneath-(prep)-[2019.05.25]**	
+	- We pass underneath the highway. # 我们从高速路下面穿过。
+- **outset-(n)-[2019.05.25]**	
+	- From the outset of the race, the man was ahead. # 从比赛一开始，这个男人就领先了。
+- **above reproach-(adv)-[2019.05.25]**	
+	- The manager told the man that his decision was above reproach. # 经理告诉那个人他的决定无可厚非。
+- **make sth. up-(phr)-[2019.05.25]**	
+	- She is the liar who makes everything up. # 她是一个喜欢编谎话的骗子。
+- **impart-(v)-[2019.05.25]**	
+	- A teacher's duty is to impart knowledge to students. # 教师的职责就是向学生传授知识。
+- **irrespective-(adj)-[2019.05.25]**	
+	- She will buy the bag irrespective of what her boyfriend does. # 不管她男友做什么，她还是会买那个包。
+- **live up to-(phr)-[2019.05.25]**	
+	- The son really lived up to his father's expectation. # 他没有辜负父亲对他的期望。
