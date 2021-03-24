@@ -1,3 +1,4 @@
 # 让我们试试
 
-![Okinawa - favorite](/Users/bubu1104/Downloads/Okinawa - favorite.jpg)
+![](https://raw.githubusercontent.com/MOMOKO606/Pic-Library/master/Okinawa%20-%20favorite.jpg)
+
