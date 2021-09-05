@@ -1,30 +1,31 @@
 # Part 1
 ## Picnics 野餐 (New)
 
-<font color=red>1. **Have you ever had a picnic?**</font>  
+1. **==Have you ever had a picnic?==**   
 I have never had a picnic, it is not common to have picnics in my city. Probably because of the air pollution. 
 
-<font color=red>2. **How often do you have a picnic?**</font>  
+2. **==How often do you have a picnic?==**  
 Like I just said. Sadly I have never had one. Maybe we will have a good outdoor lifestyle in the future and lots of picnics as well.
 
 
-<font color=red>3. **Where do you usually go for a picnic?**</font>  
+3. **==Where do you usually go for a picnic?==**  
 Well I don't know. But I suppose people usually go for a picnic in a park, on the river bank or on the beach.
 
-<font color=red>4. **Did you have picnics when you were a child?**</font> 
+4. **==Did you have picnics when you were a child?==**    
 I wish we had a picnic when I was young, but my parents were too busy with their work.
 
-<font color=red>5. **What’s the difference, picnic eating in your home?**</font> 
+5. **==What’s the difference, picnic eating in your home?==**   
 Obviously, it’s much more convenient when eating at home. But picnics are more romantic.  
 
 
 # Part 2
-<font color=red>**1NEW01-1.4(2). Describe an activity you do occasionally that is a little expensive. 偶尔做的有点贵的运动 (New)**</font>   
+**==1NEW01-1.4(2). Describe an activity you do occasionally that is a little expensive. 偶尔做的有点贵的运动 (New)==**   
 You should say:  
 what the activity is and how often you do it?  
 when and where you do this activity?  
 how much it costs you to do this activity And explain why you do this activity.
-
+********************
+Answer:  
 Well, we‘d like to go on a mini vacation on the weekend now and then. In fact, it probably is the best leisure activity my whole family like the most.
 
 I can’t say exactly how often we do this. Usually we do this every three months. But sometimes we would double the time in between when we get busy.
