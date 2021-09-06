@@ -35,7 +35,7 @@ Yes, more and more things are being recycled. It’s becoming more of an environ
 
 
 # Part 2
-**==1NEW01-1.4(2). Describe an activity you do occasionally that is a little expensive. 偶尔做的有点贵的运动 (New)==**   
+### **==1NEW01-1.4(2). Describe an activity you do occasionally that is a little expensive. 偶尔做的有点贵的运动 (New)==**   
 You should say:  
 what the activity is and how often you do it?  
 when and where you do this activity?  
@@ -51,7 +51,7 @@ Normally we spend 1 or 2 nights at an upmarket resort on the outskirt of our cit
 In terms of the feelings, first up, I think it’s quite important and necessary to have some downtime together with your family. It tends to build a stronger bond between us. Secondly, swimming has lots of pros for us, it’s incredible for my body….peaceful water clears my mind as well,(we get rid of all the pressure and bad mood after a stressful week. )We exercise our bodies and relax our brains. We definitely get the best of both worlds.
 
 
-**==2NEW02-1.11(2) Describe a sport you would like to try for the first time. 想首次尝试的运动==**  
+### **==2NEW02-1.11(2) Describe a sport you would like to try for the first time. 想首次尝试的运动==**  
 You should say:  
 what the sport is  
 what is needed to do the sport  
