@@ -43,6 +43,20 @@ Oh, I’m the expert. Probably because I’m bone idle. I’ve never finished my
 4. **==How do you usually make a list, on a piece of paper, or on your phone?==**  
 I used to make a list with my pen on a piece of paper. But I don’t anymore. Now I’m sticking with my smartphone. It’s much more convenient. 
 
+## Being in a hurry 匆忙 (New)
+1. **==What things do you usually do in a hurry?==**  
+It’s gotta be things in the morning, I mean, everyday I help my daughter get dressed, brush her teeth, wash her face, and take her to the kindergarten. we are in such a rush. This is the thing that I'm always in a hurry over. everyday situations
+
+2. **==Are there any things that you would never do in a hurry?==**
+
+3. **==When was the last time you did something in a hurry?==**  
+This morning, like I said, We were in such a rush that the morning was just a blur to us.
+
+4. **==Why do people make mistakes when they are in a hurry?==**
+
+5. **==Do you like to finish things quickly?==**
+
+
 
 
 
@@ -96,6 +110,23 @@ The main responsibility of this job is to study the latest algorithms, to design
 And I first knew this job when I was a sophomore student in college. After I watched a series of lectures produced by MIT on the internet. For the first time ever, I learned how useful it is on a day-to-day basis. Then I was totally intrigued by algorithms. And I learned the knowledge in programming and algorithms. 
 
 In terms of the reasons, first up, it’s an old dream from my childhood, I’ve always wanted to become an engineer in the world’s top companies. The biggest attraction of the job is that you know you actually make a difference in people’s lives. For instance, … Sounds wonderful, doesn’t it. Secondly my family and I are moving to Toronto, I heard Microsoft has a brand new quarter in Toronto, and it offers excellent salary. And it has an Olympic sized heating swimming pool. I’m a swim enthusiast. So if I could get the job, I definitely get the best of both worlds. (Lastly I feel like this job curves your personality. You need to be focused, patient and perseverant. You have to be meticulous when dealing with rows and rows of data. It keeps you updating your knowledge, it helps you become a lifelong learner.)
+
+### **==34NEW04-3.3 Describe a long car journey you went on 长途驱车旅行==**  
+You should say:  
+where you went  
+why you went on the journey by car  
+what you did during the journey  
+And explain how you felt about the car journey.
+********************
+Answer:  
+I remember the time when my wife and I were taking a road trip on spring festival. We were heading to a small town with natural hot spring on the outskirt of our city. It was about 10 years ago, I was a new driver who just had got my driving license. This was the very first time we took a road trip so we were really excited which means we were singing, talking all the way along. We didn’t feel anything unusual until a car passed us and shouted at us. I clearly remember the kind driver’s words “You have a flat right tire!”
+
+So I pulled over and tried to change the spare tire by myself. For the first time ever, I‘ve learnt how difficult it was to change a tire. I couldn’t even loosen it by standing and jumping on the wrench. But luckily we found a family-run repair shop later on, they helped us change the tire for free.
+
+Looking back now, it was quite a dangerous journey. I mean what if nobody had helped us we would have been stranded. We should be well prepared before we travel. Everything went a bit skew-whiff after the accident. A road trip is supposed to be a private trip, but we ended up meeting a lot of kind-hearted people. And we were supposed to enjoy the hot spring to get rid of all the stress and troubles, escape from the hustle and bustle of the city, but we ended up learning a lot of skills of fixing a car.
+And I really want to thank the kind-hearted people we’ve met. It was such a good deed and they showed us the importance of helping out each other.
+
+
 
 
 
